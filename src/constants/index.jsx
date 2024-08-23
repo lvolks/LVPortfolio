@@ -39,7 +39,7 @@ export const projects = [
     {
         name: "Portfolio",
         bg: portfolio,
-        link: "https://github.com/lvolks/Prestige-Garage",
+        link: "https://github.com/lvolks/LVPortfolio.git",
     },
 ]
 
